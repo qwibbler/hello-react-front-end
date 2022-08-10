@@ -4,7 +4,7 @@
 
 # 1) HelloRails Back-end
 
-  [This repo](https://github.com/Juanse7793/HelloRails-back-end)
+  [This repo](https://github.com/qwibbler/hello-rails-back-end/pull/1)
 
 # 2) HelloReact Front-end
 
